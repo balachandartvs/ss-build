@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'app';
   test = '333';
-  sample = 'dd'
+  sample = 'dafds'
 }
