@@ -10,4 +10,5 @@ export class AppComponent {
   test = '333';
   sample = 'dafds'
   dkfkd ='dfdf'
+  dafd='dfd';
 }
